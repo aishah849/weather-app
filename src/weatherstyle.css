@@ -1,0 +1,74 @@
+.container {
+  margin-top: 20px;
+  color: royalblue;
+}
+h1 {
+  margin: 2px;
+}
+h5 {
+  font-size: 30px;
+}
+ul {
+  list-style: none;
+  margin-top: -110px;
+  margin-left: 404px;
+  padding: 0;
+}
+a {
+  font-size: 20px;
+  text-decoration: none;
+}
+.card-body {
+  text-align: center;
+  position: relative;
+  font-size: 25px;
+}
+.card-title-temperature {
+  font-weight: 700;
+  margin-top: 21px;
+}
+.units {
+  margin: -17px;
+}
+.card-title-future {
+  line-height: 1;
+  margin-top: 0;
+}
+.friday-temp .cloudy-icon {
+  color: darkcyan;
+  font-size: 70px;
+  margin-left: 10px;
+  line-height: 2;
+}
+.sunday-temp .cloudy-icon {
+  color: darkcyan;
+  font-size: 70px;
+}
+.showers-icon {
+  color: darkcyan;
+  font-size: 70px;
+}
+.sunny-icon {
+  color: darkcyan;
+  font-size: 70px;
+}
+.current-button {
+  display: inline-block;
+  color: white;
+  background-color: #4169e0;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  padding: 0.375rem 0.75rem;
+  text-decoration: none;
+  vertical-align: middle;
+  transition: all 200ms ease-in-out;
+}
+.current-button:hover {
+  color: #4169e0;
+  background-color: white;
+  border-color: #4169e0;
+  cursor: pointer;
+}
